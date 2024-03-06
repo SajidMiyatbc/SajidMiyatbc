@@ -1,16 +1,17 @@
-### Hi there 👋
+### About me 👋
 
-<!--
-**SajidMiyatbc/SajidMiyatbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on various Python projects, including file manipulation tasks and a program to determine meal times based on user input.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning about data science and its applications in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on open-source Python projects that can benefit the community.
+
+🤔 I’m looking for help with optimizing algorithms and improving code efficiency in Python.
+
+💬 Ask me about Python programming, software development, and data science.
+
+📫 How to reach me: sajidmiya879@gmail.com
+
+😄 Pronouns: he/him 
+
+⚡ Fun fact: I recently opened a clothing brand on Instagram!
